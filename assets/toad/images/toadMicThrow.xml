@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toadMicThrow.png">
+    <!-- Created with custom python script lol -->
+    <SubTexture name="throw0000" x="0" y="0" width="500" height="500"/>
+    <SubTexture name="throw0001" x="500" y="0" width="500" height="500"/>
+    <SubTexture name="throw0002" x="1000" y="0" width="500" height="500"/>
+    <SubTexture name="throw0003" x="1500" y="0" width="500" height="500"/>
+    <SubTexture name="throw0004" x="2000" y="0" width="500" height="500"/>
+    <SubTexture name="throw0005" x="2500" y="0" width="500" height="500"/>
+    <SubTexture name="throw0006" x="3000" y="0" width="500" height="500"/>
+    <SubTexture name="throw0007" x="0" y="500" width="500" height="500"/>
+    <SubTexture name="throw0008" x="500" y="500" width="500" height="500"/>
+    <SubTexture name="throw0009" x="1000" y="500" width="500" height="500"/>
+    <SubTexture name="throw0010" x="1500" y="500" width="500" height="500"/>
+    <SubTexture name="throw0011" x="2000" y="500" width="500" height="500"/>
+    <SubTexture name="throw0012" x="2500" y="500" width="500" height="500"/>
+    <SubTexture name="throw0013" x="3000" y="500" width="500" height="500"/>
+    <SubTexture name="throw0014" x="0" y="1000" width="500" height="500"/>
+    <SubTexture name="throw0015" x="500" y="1000" width="500" height="500"/>
+    <SubTexture name="throw0016" x="1000" y="1000" width="500" height="500"/>
+    <SubTexture name="throw0017" x="1500" y="1000" width="500" height="500"/>
+    <SubTexture name="throw0018" x="2000" y="1000" width="500" height="500"/>
+    <SubTexture name="throw0019" x="2500" y="1000" width="500" height="500"/>
+    <SubTexture name="throw0020" x="3000" y="1000" width="500" height="500"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whomstHasSummonedTheAlmightyOne.png">
+    <!-- Created with custom python script lol -->
+    <SubTexture name="summon0000" x="0" y="0" width="440" height="716"/>
+    <SubTexture name="summon0001" x="440" y="0" width="440" height="716"/>
+    <SubTexture name="summon0002" x="880" y="0" width="440" height="716"/>
+    <SubTexture name="summon0003" x="1320" y="0" width="440" height="716"/>
+    <SubTexture name="summon0004" x="1760" y="0" width="440" height="716"/>
+    <SubTexture name="summon0005" x="2200" y="0" width="440" height="716"/>
+    <SubTexture name="summon0006" x="2640" y="0" width="440" height="716"/>
+    <SubTexture name="summon0007" x="3080" y="0" width="440" height="716"/>
+    <SubTexture name="summon0008" x="3520" y="0" width="440" height="716"/>
+</TextureAtlas>

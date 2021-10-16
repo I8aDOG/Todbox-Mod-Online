@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="people-sorry.png">
+    <!-- Created with custom python script lol -->
+    <SubTexture name="People Bob0000" x="0" y="0" width="2560" height="1440"/>
+    <SubTexture name="People Bob0001" x="0" y="0" width="2560" height="1440"/>
+    <SubTexture name="People Bob0002" x="2560" y="0" width="2560" height="1440"/>
+    <SubTexture name="People Bob0003" x="2560" y="0" width="2560" height="1440"/>
+    <SubTexture name="People Bob0004" x="0" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0005" x="0" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0006" x="2560" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0007" x="2560" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0008" x="2560" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0009" x="2560" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0010" x="2560" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0011" x="2560" y="1440" width="2560" height="1440"/>
+    <SubTexture name="People Bob0012" x="2560" y="1440" width="2560" height="1440"/>
+</TextureAtlas>

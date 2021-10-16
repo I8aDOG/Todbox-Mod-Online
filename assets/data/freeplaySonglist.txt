@@ -1,0 +1,5 @@
+Tutorial:gf:1
+Shroom:toad:7
+Salt:toadAngry:7
+Jacked:jackedToad:7
+Sorry:toadSorry:7

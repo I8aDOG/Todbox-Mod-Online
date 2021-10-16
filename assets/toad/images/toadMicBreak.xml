@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toadMicBreak.png">
+    <!-- Created with custom python script lol -->
+    <SubTexture name="rage0000" x="0" y="0" width="400" height="450"/>
+    <SubTexture name="rage0001" x="400" y="0" width="400" height="450"/>
+    <SubTexture name="rage0002" x="800" y="0" width="400" height="450"/>
+    <SubTexture name="rage0003" x="1200" y="0" width="400" height="450"/>
+    <SubTexture name="rage0004" x="1600" y="0" width="400" height="450"/>
+    <SubTexture name="rage0005" x="2000" y="0" width="400" height="450"/>
+    <SubTexture name="rage0006" x="2400" y="0" width="400" height="450"/>
+    <SubTexture name="rage0007" x="2800" y="0" width="400" height="450"/>
+    <SubTexture name="rage0008" x="0" y="450" width="400" height="450"/>
+    <SubTexture name="rage0009" x="400" y="450" width="400" height="450"/>
+    <SubTexture name="rage0010" x="800" y="450" width="400" height="450"/>
+    <SubTexture name="rage0011" x="1200" y="450" width="400" height="450"/>
+    <SubTexture name="rage0012" x="1600" y="450" width="400" height="450"/>
+    <SubTexture name="rage0013" x="2000" y="450" width="400" height="450"/>
+    <SubTexture name="rage0014" x="2400" y="450" width="400" height="450"/>
+    <SubTexture name="rage0015" x="2800" y="450" width="400" height="450"/>
+    <SubTexture name="rage0016" x="0" y="900" width="400" height="450"/>
+    <SubTexture name="rage0017" x="400" y="900" width="400" height="450"/>
+    <SubTexture name="rage0018" x="800" y="900" width="400" height="450"/>
+    <SubTexture name="rage0019" x="1200" y="900" width="400" height="450"/>
+    <SubTexture name="rage0020" x="1600" y="900" width="400" height="450"/>
+    <SubTexture name="rage0021" x="2000" y="900" width="400" height="450"/>
+    <SubTexture name="rage0022" x="2400" y="900" width="400" height="450"/>
+    <SubTexture name="rage0023" x="2800" y="900" width="400" height="450"/>
+</TextureAtlas>

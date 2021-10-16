@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toadIsSalty.png">
+    <!-- Created with custom python script lol -->
+    <SubTexture name="salty0000" x="0" y="0" width="280" height="420"/>
+    <SubTexture name="salty0001" x="280" y="0" width="280" height="420"/>
+    <SubTexture name="salty0002" x="560" y="0" width="280" height="420"/>
+    <SubTexture name="salty0003" x="840" y="0" width="280" height="420"/>
+    <SubTexture name="salty0004" x="1120" y="0" width="280" height="420"/>
+    <SubTexture name="salty0005" x="1400" y="0" width="280" height="420"/>
+    <SubTexture name="salty0006" x="1680" y="0" width="280" height="420"/>
+    <SubTexture name="salty0007" x="1960" y="0" width="280" height="420"/>
+    <SubTexture name="salty0008" x="2240" y="0" width="280" height="420"/>
+    <SubTexture name="salty0009" x="0" y="420" width="280" height="420"/>
+    <SubTexture name="salty0010" x="280" y="420" width="280" height="420"/>
+    <SubTexture name="salty0011" x="560" y="420" width="280" height="420"/>
+    <SubTexture name="salty0012" x="840" y="420" width="280" height="420"/>
+    <SubTexture name="salty0013" x="1120" y="420" width="280" height="420"/>
+    <SubTexture name="salty0014" x="1400" y="420" width="280" height="420"/>
+    <SubTexture name="salty0015" x="1680" y="420" width="280" height="420"/>
+    <SubTexture name="salty0016" x="1960" y="420" width="280" height="420"/>
+    <SubTexture name="salty0017" x="2240" y="420" width="280" height="420"/>
+</TextureAtlas>
